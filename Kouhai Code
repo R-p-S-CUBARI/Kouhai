@@ -260,6 +260,14 @@
         "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/DFOOyub/"
       },
       "last_updated": "1624812168"
+    },
+    "73.5": {
+      "title": "Bonus",
+      "volume": "",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/SNBcrIT/"
+      },
+      "last_updated": "1625045174"
     }
   }
 }
